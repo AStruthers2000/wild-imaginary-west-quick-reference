@@ -1,11 +1,11 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Ability Scores](#ability-scores)
   - [Charm](#charm)
   - [Finesse](#finesse)
   - [Intuition](#intuition)
   - [Nerve](#nerve)
   - [Task Difficulty](#task-difficulty)
-    - [Challenge Rolls](#challenge-rolls)
-    - [Helping](#helping)
 - [Prestige](#prestige)
   - [Talents](#talents)
 

@@ -1,3 +1,5 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Dice](#dice)
   - [Hit](#hit)
   - [Ace](#ace)
