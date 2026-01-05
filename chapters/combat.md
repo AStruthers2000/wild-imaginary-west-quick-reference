@@ -7,6 +7,8 @@
   - [Defense](#defense)
   - [Statuses](#statuses)
   - [Abilities](#abilities)
+  - [Character Death](#character-death)
+- [High-Noon Duels](#high-noon-duels)
 
 # Combat
 As combat begins, do the following:
@@ -139,3 +141,36 @@ Each Trade as six Abilities, unique to them. All Abilities cost at least 1 Grit 
 Alongside regular Abilities, each Trade has an Ace-in-the-Hole Ability, which can only be used when a player has rolled at least six Aces during a combat situation.
 
 Using an Ace-in-the-Hole Ability or resting by a campfire/town resets the Ace counter.
+
+## Character Death
+When a character has no remaining Health, they are Bleeding Out. If they are revived from Bleeding Out, the character then takes the Unconscious [5] Status. If they are not revived in time, the character dies.
+
+### Bleeding Out
+A character begins Bleeding Out when their Health is reduced to 0. They cannot take any Actions and are now at risk of death.
+
+At the end of _each **ally's**_ turn, a character who is Bleeding Out must roll at least one Hit with a Skill of their choice to stay alive until the next ally's turn. At the end of the next ally's turn, the character rolls with a different Skill to stay alive. This process repeats until the character has rolled all four Skills.
+
+The character dies immediately if they fail to roll a Hit on any turn, or if they have already rolled with all four Skills by the end of any turn.
+
+Bleeding out can only be removed if another character successfully uses any First Aid Item or Ability to sustain the Bleeding Out character. Once healed by another player, they take the Unconscious [5] Status. When the Unconscious Status is relieved, you regain 1 Health.
+
+### Enemy Death
+Enemies do not take the Bleeding Out or Unconscious Statuses.
+
+# High-Noon Duels
+A Duel is fought with the town's Dueling Pistols: 2G. Both opponents in the Duel will roll with each of the four Skills. The character with the higher result at the end of each Skill roll will add 1B to their Draw! attack pool. In the case of a tie, both players gain the additional die.
+
+A Duel is fought over the following stages:
+1. **Charm**: Intimidate your dueling partner.
+2. **Finesse**: Keep your hands steady, don't lose your cool.
+3. **Intuition**: Use your keen eye to determine what your opponent might try.
+4. **Nerve**: Don't show the reaper any fear.
+5. **Draw!**: Both duelists roll their attack with the Draw! dice pool, made up of 2G + each Black die gained from the previous steps.
+
+Any Hits rolled against you will affect your character according to the following:
+| Hits | Result |
+| :---: | :--- |
+| 0 Hits | No harm done. |
+| 1 - 2 Hits | Minor injury that doesn't necessarily impede your character but should be considered while roleplaying. |
+| 3 - 4 Hits | Severe lasting injury. You are Bleeding Out and risk death if not quickly saved by someone else. |
+| 5+ Hits | You are instantly killed and cannot be saved. |
