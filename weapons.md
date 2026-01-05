@@ -1,0 +1,3 @@
+- [Weapons](#weapons)
+
+# Weapons
